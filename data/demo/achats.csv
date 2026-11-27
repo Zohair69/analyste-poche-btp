@@ -1,0 +1,489 @@
+id_achat;id_chantier;date_achat;fournisseur;categorie;montant_ht
+A00001;CH001;2025-02-15;Verrerie Exemple;Vitrage;114.74
+A00002;CH001;2025-02-12;Verrerie Exemple;Vitrage;27.16
+A00003;CH001;2025-02-16;Verrerie Exemple;Vitrage;680.21
+A00004;CH001;2025-02-11;Verrerie Exemple;Vitrage;92.14
+A00005;CH002;2025-02-27;Scierie Fictive du Rhône;Bois;851.03
+A00006;CH002;2025-03-06;Scierie Fictive du Rhône;Bois;1970.3
+A00007;CH002;2025-03-04;Peintures Test;Finition;383.09
+A00008;CH003;2025-01-30;Verrerie Exemple;Vitrage;1790.24
+A00009;CH003;2025-01-31;Verrerie Exemple;Vitrage;2010.17
+A00010;CH004;2025-02-10;Scierie Fictive du Rhône;Bois;886.34
+A00011;CH004;2025-02-13;Scierie Fictive du Rhône;Bois;1056.01
+A00012;CH004;2025-02-16;Scierie Fictive du Rhône;Bois;3548.87
+A00013;CH005;2025-03-05;Quincaillerie Démo;Quincaillerie;615.17
+A00014;CH005;2025-03-05;Quincaillerie Démo;Quincaillerie;521.4
+A00015;CH005;2025-03-08;Scierie Fictive du Rhône;Bois;65.94
+A00016;CH005;2025-03-06;Scierie Fictive du Rhône;Bois;42.77
+A00017;CH006;2025-03-09;Quincaillerie Démo;Quincaillerie;723.08
+A00018;CH006;2025-03-05;Quincaillerie Démo;Quincaillerie;828.87
+A00019;CH006;2025-03-12;Scierie Fictive du Rhône;Bois;714.5
+A00020;CH007;2025-03-13;Quincaillerie Démo;Quincaillerie;57.32
+A00021;CH007;2025-03-09;Scierie Fictive du Rhône;Bois;346.15
+A00022;CH007;2025-03-12;Scierie Fictive du Rhône;Bois;310.23
+A00023;CH007;2025-03-12;Verrerie Exemple;Vitrage;188.01
+A00024;CH008;2025-02-14;Verrerie Exemple;Vitrage;1064.42
+A00025;CH008;2025-02-13;Quincaillerie Démo;Quincaillerie;115.32
+A00026;CH008;2025-02-14;Peintures Test;Finition;146.59
+A00027;CH008;2025-02-14;Peintures Test;Finition;133.13
+A00028;CH008;2025-02-18;Scierie Fictive du Rhône;Bois;14.2
+A00029;CH009;2025-03-11;Verrerie Exemple;Vitrage;163.48
+A00030;CH009;2025-03-16;Scierie Fictive du Rhône;Bois;324.5
+A00031;CH009;2025-03-14;Quincaillerie Démo;Quincaillerie;2750.61
+A00032;CH009;2025-03-12;Quincaillerie Démo;Quincaillerie;107.82
+A00033;CH009;2025-03-17;Scierie Fictive du Rhône;Bois;41.46
+A00034;CH010;2025-03-12;Verrerie Exemple;Vitrage;1111.05
+A00035;CH010;2025-03-07;Peintures Test;Finition;686.83
+A00036;CH010;2025-03-10;Quincaillerie Démo;Quincaillerie;1877.64
+A00037;CH010;2025-03-05;Verrerie Exemple;Vitrage;1395.25
+A00038;CH010;2025-03-05;Verrerie Exemple;Vitrage;430.5
+A00039;CH011;2025-03-01;Verrerie Exemple;Vitrage;931.3
+A00040;CH011;2025-02-24;Peintures Test;Finition;765.93
+A00041;CH011;2025-02-27;Scierie Fictive du Rhône;Bois;1310.63
+A00042;CH012;2025-03-11;Verrerie Exemple;Vitrage;555.84
+A00043;CH012;2025-03-09;Scierie Fictive du Rhône;Bois;1265.29
+A00044;CH012;2025-03-11;Peintures Test;Finition;341.4
+A00045;CH012;2025-03-06;Peintures Test;Finition;2984.23
+A00046;CH012;2025-03-08;Scierie Fictive du Rhône;Bois;189.32
+A00047;CH013;2025-04-05;Quincaillerie Démo;Quincaillerie;592.15
+A00048;CH013;2025-04-06;Quincaillerie Démo;Quincaillerie;3.68
+A00049;CH013;2025-04-05;Peintures Test;Finition;29.63
+A00050;CH013;2025-04-03;Scierie Fictive du Rhône;Bois;400.58
+A00051;CH013;2025-04-04;Scierie Fictive du Rhône;Bois;7.7
+A00052;CH014;2025-04-12;Peintures Test;Finition;121.0
+A00053;CH014;2025-04-15;Scierie Fictive du Rhône;Bois;87.96
+A00054;CH014;2025-04-10;Scierie Fictive du Rhône;Bois;86.53
+A00055;CH014;2025-04-16;Peintures Test;Finition;16.5
+A00056;CH014;2025-04-16;Verrerie Exemple;Vitrage;648.21
+A00057;CH015;2025-03-23;Quincaillerie Démo;Quincaillerie;1243.18
+A00058;CH015;2025-03-28;Verrerie Exemple;Vitrage;2215.67
+A00059;CH015;2025-03-22;Peintures Test;Finition;1364.59
+A00060;CH016;2025-03-25;Peintures Test;Finition;291.84
+A00061;CH016;2025-03-31;Scierie Fictive du Rhône;Bois;332.46
+A00062;CH017;2025-04-09;Verrerie Exemple;Vitrage;86.81
+A00063;CH017;2025-04-10;Quincaillerie Démo;Quincaillerie;14.75
+A00064;CH017;2025-04-09;Quincaillerie Démo;Quincaillerie;339.07
+A00065;CH017;2025-04-04;Scierie Fictive du Rhône;Bois;328.64
+A00066;CH017;2025-04-07;Verrerie Exemple;Vitrage;115.89
+A00067;CH018;2025-05-12;Scierie Fictive du Rhône;Bois;477.29
+A00068;CH018;2025-05-06;Scierie Fictive du Rhône;Bois;31.76
+A00069;CH018;2025-05-12;Scierie Fictive du Rhône;Bois;642.57
+A00070;CH019;2025-05-04;Quincaillerie Démo;Quincaillerie;363.01
+A00071;CH019;2025-05-06;Verrerie Exemple;Vitrage;1821.99
+A00072;CH019;2025-05-08;Quincaillerie Démo;Quincaillerie;470.33
+A00073;CH020;2025-05-23;Verrerie Exemple;Vitrage;653.77
+A00074;CH020;2025-05-24;Verrerie Exemple;Vitrage;371.68
+A00075;CH021;2025-05-01;Quincaillerie Démo;Quincaillerie;504.31
+A00076;CH021;2025-04-29;Quincaillerie Démo;Quincaillerie;314.77
+A00077;CH021;2025-04-30;Peintures Test;Finition;742.04
+A00078;CH021;2025-04-30;Quincaillerie Démo;Quincaillerie;169.33
+A00079;CH022;2025-05-29;Verrerie Exemple;Vitrage;16.26
+A00080;CH022;2025-06-03;Verrerie Exemple;Vitrage;320.79
+A00081;CH022;2025-05-31;Verrerie Exemple;Vitrage;1456.31
+A00082;CH022;2025-05-28;Scierie Fictive du Rhône;Bois;1087.57
+A00083;CH022;2025-06-02;Verrerie Exemple;Vitrage;518.45
+A00084;CH023;2025-05-21;Peintures Test;Finition;903.66
+A00085;CH023;2025-05-23;Scierie Fictive du Rhône;Bois;1514.21
+A00086;CH023;2025-05-20;Scierie Fictive du Rhône;Bois;65.54
+A00087;CH023;2025-05-17;Quincaillerie Démo;Quincaillerie;1446.09
+A00088;CH024;2025-05-15;Scierie Fictive du Rhône;Bois;356.24
+A00089;CH024;2025-05-08;Quincaillerie Démo;Quincaillerie;68.54
+A00090;CH024;2025-05-12;Verrerie Exemple;Vitrage;55.04
+A00091;CH024;2025-05-14;Verrerie Exemple;Vitrage;1983.76
+A00092;CH025;2025-05-29;Quincaillerie Démo;Quincaillerie;125.41
+A00093;CH025;2025-05-30;Peintures Test;Finition;367.34
+A00094;CH026;2025-05-26;Quincaillerie Démo;Quincaillerie;2198.67
+A00095;CH026;2025-05-23;Scierie Fictive du Rhône;Bois;303.43
+A00096;CH026;2025-05-26;Scierie Fictive du Rhône;Bois;4431.08
+A00097;CH027;2025-05-12;Peintures Test;Finition;1340.95
+A00098;CH027;2025-05-11;Scierie Fictive du Rhône;Bois;657.57
+A00099;CH027;2025-05-12;Scierie Fictive du Rhône;Bois;235.43
+A00100;CH027;2025-05-13;Scierie Fictive du Rhône;Bois;1043.61
+A00101;CH027;2025-05-09;Scierie Fictive du Rhône;Bois;1440.04
+A00102;CH028;2025-06-08;Quincaillerie Démo;Quincaillerie;833.83
+A00103;CH028;2025-06-13;Scierie Fictive du Rhône;Bois;982.22
+A00104;CH028;2025-06-11;Peintures Test;Finition;839.17
+A00105;CH029;2025-06-02;Scierie Fictive du Rhône;Bois;1167.17
+A00106;CH029;2025-06-09;Peintures Test;Finition;458.69
+A00107;CH030;2025-06-05;Quincaillerie Démo;Quincaillerie;230.55
+A00108;CH030;2025-06-08;Quincaillerie Démo;Quincaillerie;1102.59
+A00109;CH030;2025-06-11;Peintures Test;Finition;1864.72
+A00110;CH030;2025-06-09;Scierie Fictive du Rhône;Bois;249.52
+A00111;CH031;2025-06-13;Verrerie Exemple;Vitrage;928.73
+A00112;CH031;2025-06-13;Scierie Fictive du Rhône;Bois;676.84
+A00113;CH031;2025-06-09;Quincaillerie Démo;Quincaillerie;358.5
+A00114;CH031;2025-06-13;Scierie Fictive du Rhône;Bois;393.27
+A00115;CH032;2025-06-09;Scierie Fictive du Rhône;Bois;1466.58
+A00116;CH032;2025-06-08;Quincaillerie Démo;Quincaillerie;2520.8
+A00117;CH033;2025-05-26;Quincaillerie Démo;Quincaillerie;412.68
+A00118;CH033;2025-05-29;Scierie Fictive du Rhône;Bois;10.41
+A00119;CH033;2025-05-29;Peintures Test;Finition;111.68
+A00120;CH034;2025-06-29;Verrerie Exemple;Vitrage;120.37
+A00121;CH034;2025-06-25;Verrerie Exemple;Vitrage;855.96
+A00122;CH034;2025-06-30;Verrerie Exemple;Vitrage;497.94
+A00123;CH034;2025-06-26;Verrerie Exemple;Vitrage;332.02
+A00124;CH035;2025-07-02;Peintures Test;Finition;629.31
+A00125;CH035;2025-07-02;Quincaillerie Démo;Quincaillerie;2662.81
+A00126;CH036;2025-06-23;Verrerie Exemple;Vitrage;1.54
+A00127;CH036;2025-06-30;Quincaillerie Démo;Quincaillerie;227.95
+A00128;CH036;2025-06-24;Quincaillerie Démo;Quincaillerie;142.2
+A00129;CH036;2025-06-27;Peintures Test;Finition;180.11
+A00130;CH036;2025-06-26;Verrerie Exemple;Vitrage;391.48
+A00131;CH037;2025-07-25;Verrerie Exemple;Vitrage;1449.22
+A00132;CH037;2025-07-24;Verrerie Exemple;Vitrage;61.36
+A00133;CH037;2025-07-26;Quincaillerie Démo;Quincaillerie;380.06
+A00134;CH038;2025-07-02;Quincaillerie Démo;Quincaillerie;394.62
+A00135;CH038;2025-07-01;Verrerie Exemple;Vitrage;92.7
+A00136;CH038;2025-06-28;Verrerie Exemple;Vitrage;165.54
+A00137;CH038;2025-07-01;Peintures Test;Finition;163.81
+A00138;CH039;2025-07-05;Peintures Test;Finition;388.52
+A00139;CH039;2025-07-06;Verrerie Exemple;Vitrage;2314.14
+A00140;CH040;2025-07-18;Scierie Fictive du Rhône;Bois;597.45
+A00141;CH040;2025-07-19;Verrerie Exemple;Vitrage;9.54
+A00142;CH040;2025-07-12;Peintures Test;Finition;630.89
+A00143;CH040;2025-07-16;Verrerie Exemple;Vitrage;958.58
+A00144;CH041;2025-08-17;Quincaillerie Démo;Quincaillerie;241.52
+A00145;CH041;2025-08-21;Peintures Test;Finition;57.56
+A00146;CH041;2025-08-18;Peintures Test;Finition;200.9
+A00147;CH041;2025-08-21;Scierie Fictive du Rhône;Bois;66.78
+A00148;CH041;2025-08-23;Verrerie Exemple;Vitrage;270.46
+A00149;CH042;2025-10-02;Verrerie Exemple;Vitrage;131.04
+A00150;CH042;2025-09-29;Quincaillerie Démo;Quincaillerie;1861.32
+A00151;CH043;2025-09-24;Peintures Test;Finition;501.11
+A00152;CH043;2025-09-19;Peintures Test;Finition;159.93
+A00153;CH043;2025-09-22;Scierie Fictive du Rhône;Bois;2536.16
+A00154;CH044;2025-09-16;Verrerie Exemple;Vitrage;1249.78
+A00155;CH044;2025-09-18;Scierie Fictive du Rhône;Bois;17.86
+A00156;CH045;2025-09-22;Scierie Fictive du Rhône;Bois;1089.65
+A00157;CH045;2025-09-15;Quincaillerie Démo;Quincaillerie;1417.67
+A00158;CH045;2025-09-20;Peintures Test;Finition;2556.21
+A00159;CH045;2025-09-21;Scierie Fictive du Rhône;Bois;1059.71
+A00160;CH046;2025-09-10;Peintures Test;Finition;84.23
+A00161;CH046;2025-09-06;Verrerie Exemple;Vitrage;89.02
+A00162;CH046;2025-09-05;Peintures Test;Finition;570.92
+A00163;CH046;2025-09-07;Quincaillerie Démo;Quincaillerie;239.23
+A00164;CH047;2025-09-10;Quincaillerie Démo;Quincaillerie;661.46
+A00165;CH047;2025-09-15;Peintures Test;Finition;237.77
+A00166;CH047;2025-09-12;Peintures Test;Finition;247.97
+A00167;CH048;2025-09-12;Verrerie Exemple;Vitrage;236.11
+A00168;CH048;2025-09-10;Quincaillerie Démo;Quincaillerie;766.03
+A00169;CH048;2025-09-12;Scierie Fictive du Rhône;Bois;1245.67
+A00170;CH049;2025-10-08;Quincaillerie Démo;Quincaillerie;53.55
+A00171;CH049;2025-10-07;Quincaillerie Démo;Quincaillerie;1103.0
+A00172;CH049;2025-10-07;Scierie Fictive du Rhône;Bois;624.03
+A00173;CH049;2025-10-07;Scierie Fictive du Rhône;Bois;19.22
+A00174;CH049;2025-10-08;Scierie Fictive du Rhône;Bois;503.21
+A00175;CH050;2025-09-25;Verrerie Exemple;Vitrage;189.3
+A00176;CH050;2025-09-29;Peintures Test;Finition;163.8
+A00177;CH050;2025-10-02;Quincaillerie Démo;Quincaillerie;414.96
+A00178;CH050;2025-09-30;Verrerie Exemple;Vitrage;25.1
+A00179;CH050;2025-09-30;Scierie Fictive du Rhône;Bois;21.26
+A00180;CH051;2025-10-07;Peintures Test;Finition;874.67
+A00181;CH051;2025-10-08;Scierie Fictive du Rhône;Bois;1192.07
+A00182;CH051;2025-10-03;Scierie Fictive du Rhône;Bois;459.34
+A00183;CH051;2025-10-04;Verrerie Exemple;Vitrage;6.19
+A00184;CH052;2025-09-22;Peintures Test;Finition;623.43
+A00185;CH052;2025-09-28;Scierie Fictive du Rhône;Bois;508.78
+A00186;CH052;2025-09-26;Scierie Fictive du Rhône;Bois;317.83
+A00187;CH052;2025-09-22;Quincaillerie Démo;Quincaillerie;5.65
+A00188;CH052;2025-09-28;Verrerie Exemple;Vitrage;69.52
+A00189;CH053;2025-10-18;Verrerie Exemple;Vitrage;5.78
+A00190;CH053;2025-10-19;Verrerie Exemple;Vitrage;516.6
+A00191;CH053;2025-10-21;Scierie Fictive du Rhône;Bois;137.59
+A00192;CH053;2025-10-17;Scierie Fictive du Rhône;Bois;417.96
+A00193;CH053;2025-10-20;Scierie Fictive du Rhône;Bois;50.76
+A00194;CH054;2025-10-06;Verrerie Exemple;Vitrage;478.54
+A00195;CH054;2025-10-02;Quincaillerie Démo;Quincaillerie;211.93
+A00196;CH055;2025-10-29;Quincaillerie Démo;Quincaillerie;306.75
+A00197;CH055;2025-10-25;Scierie Fictive du Rhône;Bois;12.45
+A00198;CH055;2025-10-25;Scierie Fictive du Rhône;Bois;200.77
+A00199;CH056;2025-10-09;Verrerie Exemple;Vitrage;42.84
+A00200;CH056;2025-10-10;Verrerie Exemple;Vitrage;1380.94
+A00201;CH056;2025-10-07;Scierie Fictive du Rhône;Bois;225.18
+A00202;CH056;2025-10-08;Quincaillerie Démo;Quincaillerie;712.77
+A00203;CH056;2025-10-06;Scierie Fictive du Rhône;Bois;619.24
+A00204;CH057;2025-09-21;Scierie Fictive du Rhône;Bois;934.33
+A00205;CH057;2025-09-28;Scierie Fictive du Rhône;Bois;1306.07
+A00206;CH057;2025-09-23;Quincaillerie Démo;Quincaillerie;827.1
+A00207;CH058;2025-11-04;Scierie Fictive du Rhône;Bois;121.24
+A00208;CH058;2025-11-01;Verrerie Exemple;Vitrage;306.78
+A00209;CH058;2025-11-07;Peintures Test;Finition;682.19
+A00210;CH059;2025-10-13;Verrerie Exemple;Vitrage;196.85
+A00211;CH059;2025-10-14;Quincaillerie Démo;Quincaillerie;217.19
+A00212;CH059;2025-10-15;Peintures Test;Finition;564.39
+A00213;CH059;2025-10-13;Scierie Fictive du Rhône;Bois;151.87
+A00214;CH059;2025-10-15;Peintures Test;Finition;251.65
+A00215;CH060;2025-10-22;Quincaillerie Démo;Quincaillerie;538.23
+A00216;CH060;2025-10-26;Quincaillerie Démo;Quincaillerie;753.14
+A00217;CH061;2025-11-02;Verrerie Exemple;Vitrage;1090.28
+A00218;CH061;2025-10-29;Verrerie Exemple;Vitrage;12.76
+A00219;CH062;2025-11-12;Quincaillerie Démo;Quincaillerie;2819.38
+A00220;CH062;2025-11-14;Scierie Fictive du Rhône;Bois;99.58
+A00221;CH062;2025-11-07;Verrerie Exemple;Vitrage;472.63
+A00222;CH062;2025-11-12;Scierie Fictive du Rhône;Bois;195.54
+A00223;CH063;2025-12-05;Verrerie Exemple;Vitrage;3492.82
+A00224;CH063;2025-12-06;Peintures Test;Finition;120.45
+A00225;CH063;2025-12-05;Quincaillerie Démo;Quincaillerie;477.17
+A00226;CH064;2025-11-21;Peintures Test;Finition;14.61
+A00227;CH064;2025-11-22;Quincaillerie Démo;Quincaillerie;2901.78
+A00228;CH065;2025-11-08;Peintures Test;Finition;1642.67
+A00229;CH065;2025-11-06;Verrerie Exemple;Vitrage;972.7
+A00230;CH066;2025-11-25;Quincaillerie Démo;Quincaillerie;322.21
+A00231;CH066;2025-11-22;Peintures Test;Finition;164.55
+A00232;CH066;2025-11-23;Peintures Test;Finition;641.32
+A00233;CH066;2025-11-19;Quincaillerie Démo;Quincaillerie;326.14
+A00234;CH067;2025-12-12;Peintures Test;Finition;193.08
+A00235;CH067;2025-12-11;Peintures Test;Finition;479.89
+A00236;CH067;2025-12-08;Verrerie Exemple;Vitrage;26.19
+A00237;CH067;2025-12-09;Peintures Test;Finition;492.3
+A00238;CH068;2025-11-13;Verrerie Exemple;Vitrage;147.92
+A00239;CH068;2025-11-12;Peintures Test;Finition;265.73
+A00240;CH068;2025-11-10;Scierie Fictive du Rhône;Bois;2594.19
+A00241;CH068;2025-11-14;Quincaillerie Démo;Quincaillerie;1010.19
+A00242;CH069;2025-12-16;Peintures Test;Finition;139.19
+A00243;CH069;2025-12-15;Verrerie Exemple;Vitrage;632.9
+A00244;CH070;2025-12-17;Peintures Test;Finition;614.41
+A00245;CH070;2025-12-21;Quincaillerie Démo;Quincaillerie;416.11
+A00246;CH070;2025-12-18;Quincaillerie Démo;Quincaillerie;498.44
+A00247;CH071;2025-12-13;Quincaillerie Démo;Quincaillerie;754.53
+A00248;CH071;2025-12-12;Verrerie Exemple;Vitrage;111.13
+A00249;CH071;2025-12-16;Verrerie Exemple;Vitrage;200.04
+A00250;CH071;2025-12-11;Peintures Test;Finition;780.14
+A00251;CH071;2025-12-17;Verrerie Exemple;Vitrage;549.75
+A00252;CH072;2025-12-15;Peintures Test;Finition;1220.92
+A00253;CH072;2025-12-14;Verrerie Exemple;Vitrage;356.01
+A00254;CH073;2025-12-22;Scierie Fictive du Rhône;Bois;99.4
+A00255;CH073;2025-12-21;Quincaillerie Démo;Quincaillerie;632.32
+A00256;CH073;2025-12-20;Verrerie Exemple;Vitrage;579.72
+A00257;CH074;2025-12-21;Verrerie Exemple;Vitrage;199.66
+A00258;CH074;2025-12-20;Quincaillerie Démo;Quincaillerie;520.86
+A00259;CH074;2025-12-17;Verrerie Exemple;Vitrage;1771.28
+A00260;CH075;2026-01-28;Peintures Test;Finition;518.23
+A00261;CH075;2026-01-26;Peintures Test;Finition;718.11
+A00262;CH075;2026-01-23;Quincaillerie Démo;Quincaillerie;368.08
+A00263;CH075;2026-01-26;Verrerie Exemple;Vitrage;37.73
+A00264;CH075;2026-01-27;Verrerie Exemple;Vitrage;129.61
+A00265;CH076;2026-01-14;Verrerie Exemple;Vitrage;950.63
+A00266;CH076;2026-01-14;Quincaillerie Démo;Quincaillerie;142.41
+A00267;CH076;2026-01-19;Scierie Fictive du Rhône;Bois;99.01
+A00268;CH076;2026-01-17;Peintures Test;Finition;25.71
+A00269;CH077;2026-01-05;Quincaillerie Démo;Quincaillerie;777.21
+A00270;CH077;2026-01-07;Peintures Test;Finition;1479.21
+A00271;CH077;2026-01-07;Quincaillerie Démo;Quincaillerie;1753.07
+A00272;CH078;2026-01-04;Quincaillerie Démo;Quincaillerie;22.64
+A00273;CH078;2026-01-03;Verrerie Exemple;Vitrage;228.82
+A00274;CH078;2026-01-05;Peintures Test;Finition;406.17
+A00275;CH078;2025-12-31;Quincaillerie Démo;Quincaillerie;279.11
+A00276;CH079;2026-01-21;Verrerie Exemple;Vitrage;372.41
+A00277;CH079;2026-01-14;Quincaillerie Démo;Quincaillerie;820.57
+A00278;CH079;2026-01-15;Quincaillerie Démo;Quincaillerie;374.43
+A00279;CH079;2026-01-20;Verrerie Exemple;Vitrage;902.72
+A00280;CH079;2026-01-19;Peintures Test;Finition;338.36
+A00281;CH080;2026-02-08;Quincaillerie Démo;Quincaillerie;728.61
+A00282;CH080;2026-02-11;Quincaillerie Démo;Quincaillerie;21.6
+A00283;CH080;2026-02-11;Peintures Test;Finition;3169.22
+A00284;CH081;2026-02-21;Verrerie Exemple;Vitrage;543.9
+A00285;CH081;2026-02-26;Quincaillerie Démo;Quincaillerie;4695.36
+A00286;CH081;2026-02-21;Scierie Fictive du Rhône;Bois;1355.58
+A00287;CH082;2026-01-23;Scierie Fictive du Rhône;Bois;1083.62
+A00288;CH082;2026-01-28;Quincaillerie Démo;Quincaillerie;695.87
+A00289;CH082;2026-01-22;Scierie Fictive du Rhône;Bois;160.31
+A00290;CH082;2026-01-25;Quincaillerie Démo;Quincaillerie;563.42
+A00291;CH083;2026-02-18;Scierie Fictive du Rhône;Bois;174.89
+A00292;CH083;2026-02-19;Scierie Fictive du Rhône;Bois;585.16
+A00293;CH083;2026-02-19;Peintures Test;Finition;83.02
+A00294;CH083;2026-02-13;Quincaillerie Démo;Quincaillerie;363.72
+A00295;CH083;2026-02-15;Quincaillerie Démo;Quincaillerie;41.82
+A00296;CH084;2026-02-17;Scierie Fictive du Rhône;Bois;1357.31
+A00297;CH084;2026-02-22;Scierie Fictive du Rhône;Bois;116.92
+A00298;CH084;2026-02-21;Peintures Test;Finition;219.48
+A00299;CH085;2026-02-19;Scierie Fictive du Rhône;Bois;856.11
+A00300;CH085;2026-02-22;Peintures Test;Finition;1599.88
+A00301;CH086;2026-02-17;Peintures Test;Finition;107.99
+A00302;CH086;2026-02-23;Scierie Fictive du Rhône;Bois;638.17
+A00303;CH086;2026-02-16;Verrerie Exemple;Vitrage;153.57
+A00304;CH087;2026-03-30;Scierie Fictive du Rhône;Bois;85.77
+A00305;CH087;2026-04-02;Peintures Test;Finition;404.89
+A00306;CH087;2026-04-01;Scierie Fictive du Rhône;Bois;13.39
+A00307;CH087;2026-03-28;Peintures Test;Finition;567.55
+A00308;CH087;2026-03-31;Scierie Fictive du Rhône;Bois;271.1
+A00309;CH088;2026-04-05;Quincaillerie Démo;Quincaillerie;414.56
+A00310;CH088;2026-04-03;Peintures Test;Finition;1096.77
+A00311;CH088;2026-04-03;Verrerie Exemple;Vitrage;496.77
+A00312;CH088;2026-04-05;Verrerie Exemple;Vitrage;316.95
+A00313;CH089;2026-03-23;Quincaillerie Démo;Quincaillerie;917.66
+A00314;CH089;2026-03-23;Verrerie Exemple;Vitrage;203.16
+A00315;CH089;2026-03-20;Verrerie Exemple;Vitrage;202.2
+A00316;CH089;2026-03-27;Scierie Fictive du Rhône;Bois;84.98
+A00317;CH089;2026-03-21;Quincaillerie Démo;Quincaillerie;540.35
+A00318;CH090;2026-03-17;Quincaillerie Démo;Quincaillerie;741.25
+A00319;CH090;2026-03-22;Quincaillerie Démo;Quincaillerie;398.83
+A00320;CH090;2026-03-15;Verrerie Exemple;Vitrage;745.53
+A00321;CH090;2026-03-20;Peintures Test;Finition;948.0
+A00322;CH091;2026-04-11;Verrerie Exemple;Vitrage;530.08
+A00323;CH091;2026-04-09;Verrerie Exemple;Vitrage;756.14
+A00324;CH092;2026-03-30;Quincaillerie Démo;Quincaillerie;378.83
+A00325;CH092;2026-03-28;Scierie Fictive du Rhône;Bois;3287.5
+A00326;CH092;2026-04-02;Scierie Fictive du Rhône;Bois;368.85
+A00327;CH093;2026-04-17;Peintures Test;Finition;671.91
+A00328;CH093;2026-04-19;Verrerie Exemple;Vitrage;2874.86
+A00329;CH093;2026-04-22;Peintures Test;Finition;1224.73
+A00330;CH094;2026-04-30;Peintures Test;Finition;178.72
+A00331;CH094;2026-04-27;Scierie Fictive du Rhône;Bois;62.87
+A00332;CH094;2026-04-28;Scierie Fictive du Rhône;Bois;1221.52
+A00333;CH094;2026-04-25;Quincaillerie Démo;Quincaillerie;134.48
+A00334;CH095;2026-04-30;Verrerie Exemple;Vitrage;47.31
+A00335;CH095;2026-04-28;Scierie Fictive du Rhône;Bois;165.96
+A00336;CH095;2026-04-28;Verrerie Exemple;Vitrage;200.0
+A00337;CH095;2026-04-30;Peintures Test;Finition;705.76
+A00338;CH096;2026-04-18;Quincaillerie Démo;Quincaillerie;1344.09
+A00339;CH096;2026-04-18;Quincaillerie Démo;Quincaillerie;805.87
+A00340;CH097;2026-05-19;Peintures Test;Finition;167.05
+A00341;CH097;2026-05-16;Verrerie Exemple;Vitrage;172.75
+A00342;CH097;2026-05-17;Quincaillerie Démo;Quincaillerie;275.01
+A00343;CH097;2026-05-18;Peintures Test;Finition;799.08
+A00344;CH098;2026-05-04;Peintures Test;Finition;541.28
+A00345;CH098;2026-05-10;Peintures Test;Finition;254.83
+A00346;CH098;2026-05-04;Peintures Test;Finition;158.92
+A00347;CH098;2026-05-10;Verrerie Exemple;Vitrage;361.52
+A00348;CH099;2026-05-04;Scierie Fictive du Rhône;Bois;16.5
+A00349;CH099;2026-05-04;Verrerie Exemple;Vitrage;198.04
+A00350;CH099;2026-05-11;Verrerie Exemple;Vitrage;311.16
+A00351;CH099;2026-05-05;Peintures Test;Finition;366.98
+A00352;CH100;2026-05-14;Scierie Fictive du Rhône;Bois;2760.88
+A00353;CH100;2026-05-15;Quincaillerie Démo;Quincaillerie;334.34
+A00354;CH100;2026-05-16;Scierie Fictive du Rhône;Bois;970.22
+A00355;CH100;2026-05-09;Peintures Test;Finition;407.18
+A00356;CH100;2026-05-16;Verrerie Exemple;Vitrage;33.74
+A00357;CH101;2026-06-02;Verrerie Exemple;Vitrage;2631.19
+A00358;CH101;2026-06-04;Scierie Fictive du Rhône;Bois;1433.22
+A00359;CH101;2026-05-30;Quincaillerie Démo;Quincaillerie;69.87
+A00360;CH101;2026-06-06;Quincaillerie Démo;Quincaillerie;756.69
+A00361;CH101;2026-06-02;Scierie Fictive du Rhône;Bois;348.26
+A00362;CH102;2026-05-29;Verrerie Exemple;Vitrage;246.04
+A00363;CH102;2026-05-25;Scierie Fictive du Rhône;Bois;1723.68
+A00364;CH102;2026-05-26;Verrerie Exemple;Vitrage;468.06
+A00365;CH103;2026-07-04;Peintures Test;Finition;114.15
+A00366;CH103;2026-07-03;Peintures Test;Finition;943.61
+A00367;CH104;2026-06-01;Quincaillerie Démo;Quincaillerie;160.72
+A00368;CH104;2026-06-01;Peintures Test;Finition;556.7
+A00369;CH104;2026-06-04;Verrerie Exemple;Vitrage;421.08
+A00370;CH104;2026-05-30;Verrerie Exemple;Vitrage;21.9
+A00371;CH104;2026-05-29;Verrerie Exemple;Vitrage;1839.47
+A00372;CH105;2026-06-21;Peintures Test;Finition;200.69
+A00373;CH105;2026-06-19;Quincaillerie Démo;Quincaillerie;245.43
+A00374;CH105;2026-06-18;Peintures Test;Finition;40.2
+A00375;CH105;2026-06-23;Scierie Fictive du Rhône;Bois;124.29
+A00376;CH106;2026-06-22;Quincaillerie Démo;Quincaillerie;1088.81
+A00377;CH106;2026-06-22;Verrerie Exemple;Vitrage;626.96
+A00378;CH106;2026-06-16;Quincaillerie Démo;Quincaillerie;854.78
+A00379;CH106;2026-06-19;Scierie Fictive du Rhône;Bois;50.64
+A00380;CH106;2026-06-22;Quincaillerie Démo;Quincaillerie;1677.98
+A00381;CH107;2026-06-26;Quincaillerie Démo;Quincaillerie;1344.91
+A00382;CH107;2026-06-22;Verrerie Exemple;Vitrage;372.36
+A00383;CH108;2026-07-13;Peintures Test;Finition;44.47
+A00384;CH108;2026-07-08;Scierie Fictive du Rhône;Bois;121.87
+A00385;CH108;2026-07-12;Verrerie Exemple;Vitrage;1865.01
+A00386;CH108;2026-07-13;Peintures Test;Finition;136.9
+A00387;CH108;2026-07-07;Scierie Fictive du Rhône;Bois;580.93
+A00388;CH109;2026-06-11;Peintures Test;Finition;746.65
+A00389;CH109;2026-06-12;Verrerie Exemple;Vitrage;284.1
+A00390;CH109;2026-06-17;Peintures Test;Finition;2097.89
+A00391;CH109;2026-06-17;Scierie Fictive du Rhône;Bois;2992.69
+A00392;CH110;2026-06-30;Verrerie Exemple;Vitrage;2736.46
+A00393;CH110;2026-07-04;Verrerie Exemple;Vitrage;2002.04
+A00394;CH111;2026-07-01;Peintures Test;Finition;2642.36
+A00395;CH111;2026-07-01;Scierie Fictive du Rhône;Bois;277.42
+A00396;CH112;2026-07-10;Quincaillerie Démo;Quincaillerie;38.7
+A00397;CH112;2026-07-05;Scierie Fictive du Rhône;Bois;672.71
+A00398;CH112;2026-07-08;Scierie Fictive du Rhône;Bois;798.76
+A00399;CH113;2026-07-20;Scierie Fictive du Rhône;Bois;785.53
+A00400;CH113;2026-07-18;Quincaillerie Démo;Quincaillerie;134.23
+A00401;CH113;2026-07-18;Quincaillerie Démo;Quincaillerie;504.12
+A00402;CH113;2026-07-24;Verrerie Exemple;Vitrage;295.46
+A00403;CH114;2026-08-11;Peintures Test;Finition;826.98
+A00404;CH114;2026-08-08;Verrerie Exemple;Vitrage;358.6
+A00405;CH114;2026-08-10;Verrerie Exemple;Vitrage;1809.51
+A00406;CH115;2026-08-04;Verrerie Exemple;Vitrage;459.14
+A00407;CH115;2026-08-06;Quincaillerie Démo;Quincaillerie;559.95
+A00408;CH115;2026-08-03;Scierie Fictive du Rhône;Bois;2976.68
+A00409;CH116;2026-08-08;Scierie Fictive du Rhône;Bois;908.47
+A00410;CH116;2026-08-06;Quincaillerie Démo;Quincaillerie;652.88
+A00411;CH116;2026-08-03;Peintures Test;Finition;1070.53
+A00412;CH116;2026-08-05;Peintures Test;Finition;469.44
+A00413;CH117;2026-08-26;Quincaillerie Démo;Quincaillerie;89.07
+A00414;CH117;2026-08-22;Verrerie Exemple;Vitrage;1157.67
+A00415;CH117;2026-08-19;Scierie Fictive du Rhône;Bois;158.58
+A00416;CH118;2026-09-01;Scierie Fictive du Rhône;Bois;227.46
+A00417;CH118;2026-08-30;Scierie Fictive du Rhône;Bois;687.85
+A00418;CH118;2026-09-02;Scierie Fictive du Rhône;Bois;370.68
+A00419;CH119;2026-08-15;Scierie Fictive du Rhône;Bois;355.19
+A00420;CH119;2026-08-19;Quincaillerie Démo;Quincaillerie;151.46
+A00421;CH119;2026-08-20;Scierie Fictive du Rhône;Bois;432.62
+A00422;CH120;2026-08-19;Quincaillerie Démo;Quincaillerie;942.97
+A00423;CH120;2026-08-21;Scierie Fictive du Rhône;Bois;333.92
+A00424;CH120;2026-08-23;Peintures Test;Finition;1556.26
+A00425;CH121;2026-09-04;Verrerie Exemple;Vitrage;174.19
+A00426;CH121;2026-09-02;Scierie Fictive du Rhône;Bois;513.39
+A00427;CH121;2026-08-31;Scierie Fictive du Rhône;Bois;525.17
+A00428;CH121;2026-09-03;Peintures Test;Finition;348.91
+A00429;CH121;2026-09-06;Verrerie Exemple;Vitrage;280.15
+A00430;CH122;2026-08-18;Scierie Fictive du Rhône;Bois;548.16
+A00431;CH122;2026-08-18;Peintures Test;Finition;892.61
+A00432;CH122;2026-08-16;Verrerie Exemple;Vitrage;1542.5
+A00433;CH123;2026-08-28;Verrerie Exemple;Vitrage;208.01
+A00434;CH123;2026-08-25;Peintures Test;Finition;2175.37
+A00435;CH123;2026-08-27;Verrerie Exemple;Vitrage;38.86
+A00436;CH123;2026-08-25;Scierie Fictive du Rhône;Bois;844.35
+A00437;CH124;2026-09-02;Scierie Fictive du Rhône;Bois;888.24
+A00438;CH124;2026-09-02;Verrerie Exemple;Vitrage;316.02
+A00439;CH124;2026-09-04;Verrerie Exemple;Vitrage;41.63
+A00440;CH125;2026-08-27;Quincaillerie Démo;Quincaillerie;87.16
+A00441;CH125;2026-08-24;Scierie Fictive du Rhône;Bois;895.63
+A00442;CH125;2026-08-25;Peintures Test;Finition;1399.75
+A00443;CH125;2026-08-26;Scierie Fictive du Rhône;Bois;208.62
+A00444;CH126;2026-09-19;Peintures Test;Finition;185.52
+A00445;CH126;2026-09-20;Scierie Fictive du Rhône;Bois;1052.43
+A00446;CH127;2026-08-18;Peintures Test;Finition;235.32
+A00447;CH127;2026-08-12;Scierie Fictive du Rhône;Bois;961.94
+A00448;CH127;2026-08-16;Peintures Test;Finition;93.15
+A00449;CH127;2026-08-16;Quincaillerie Démo;Quincaillerie;76.54
+A00450;CH128;2026-09-06;Peintures Test;Finition;27.43
+A00451;CH128;2026-09-04;Scierie Fictive du Rhône;Bois;312.67
+A00452;CH128;2026-09-04;Peintures Test;Finition;109.49
+A00453;CH128;2026-08-31;Quincaillerie Démo;Quincaillerie;135.49
+A00454;CH128;2026-09-05;Verrerie Exemple;Vitrage;465.3
+A00455;CH129;2026-09-24;Quincaillerie Démo;Quincaillerie;1149.15
+A00456;CH129;2026-09-30;Quincaillerie Démo;Quincaillerie;377.87
+A00457;CH129;2026-09-27;Verrerie Exemple;Vitrage;132.2
+A00458;CH130;2026-09-18;Peintures Test;Finition;530.94
+A00459;CH130;2026-09-15;Quincaillerie Démo;Quincaillerie;86.62
+A00460;CH130;2026-09-15;Peintures Test;Finition;570.22
+A00461;CH130;2026-09-15;Verrerie Exemple;Vitrage;707.96
+A00462;CH131;2026-10-05;Scierie Fictive du Rhône;Bois;831.81
+A00463;CH131;2026-10-12;Scierie Fictive du Rhône;Bois;445.96
+A00464;CH132;2026-10-07;Scierie Fictive du Rhône;Bois;1518.75
+A00465;CH132;2026-10-13;Quincaillerie Démo;Quincaillerie;248.29
+A00466;CH132;2026-10-11;Scierie Fictive du Rhône;Bois;365.57
+A00467;CH132;2026-10-08;Scierie Fictive du Rhône;Bois;2791.6
+A00468;CH133;2026-10-17;Scierie Fictive du Rhône;Bois;170.16
+A00469;CH133;2026-10-16;Verrerie Exemple;Vitrage;1077.96
+A00470;CH134;2026-09-30;Quincaillerie Démo;Quincaillerie;1.33
+A00471;CH134;2026-10-04;Verrerie Exemple;Vitrage;237.87
+A00472;CH134;2026-10-07;Quincaillerie Démo;Quincaillerie;24.54
+A00473;CH134;2026-10-04;Quincaillerie Démo;Quincaillerie;740.48
+A00474;CH135;2026-10-19;Verrerie Exemple;Vitrage;288.85
+A00475;CH135;2026-10-15;Scierie Fictive du Rhône;Bois;1433.71
+A00476;CH136;2026-09-29;Quincaillerie Démo;Quincaillerie;4204.17
+A00477;CH136;2026-09-27;Quincaillerie Démo;Quincaillerie;5632.86
+A00478;CH136;2026-09-30;Scierie Fictive du Rhône;Bois;457.73
+A00479;CH137;2026-11-07;Quincaillerie Démo;Quincaillerie;20.37
+A00480;CH137;2026-11-07;Verrerie Exemple;Vitrage;190.25
+A00481;CH137;2026-11-06;Verrerie Exemple;Vitrage;1210.55
+A00482;CH140;2026-11-01;Quincaillerie Démo;Quincaillerie;1878.94
+A00483;CH140;2026-11-01;Peintures Test;Finition;280.7
+A00484;CH140;2026-10-27;Verrerie Exemple;Vitrage;799.0
+A00485;CH140;2026-10-30;Peintures Test;Finition;608.03
+A00486;CH140;2026-10-27;Scierie Fictive du Rhône;Bois;1261.5
+A00487;CH142;2026-11-01;Peintures Test;Finition;375.24
+A00488;CH142;2026-10-31;Scierie Fictive du Rhône;Bois;2845.7
