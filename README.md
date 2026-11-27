@@ -16,5 +16,6 @@ copy .env.example .env   # puis coller sa clé API dans .env
 streamlit run app.py
 ```
 
-## Auteur
-Zohair
+## Auteur et droits
+© 2026 Zohair NAZHAOUI — tous droits réservés.
+Ce code est publié pour être consulté (portfolio). Toute réutilisation, copie, modification ou exploitation commerciale est interdite sans autorisation écrite de l'auteur. Voir [LICENSE](LICENSE).
