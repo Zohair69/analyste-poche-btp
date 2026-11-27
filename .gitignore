@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Secrets (clé API)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter / éditeurs
+.ipynb_checkpoints/
+.vscode/
+
+# Bases DuckDB générées localement
+*.duckdb
+*.duckdb.wal
