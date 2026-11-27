@@ -5,12 +5,12 @@ Application qui permet à un artisan ou une petite entreprise du bâtiment de po
 > Projet en cours de construction.
 
 ## Stack
-Python · Streamlit · DuckDB · API Claude (Anthropic) · Plotly · pytest
+Python · Streamlit · SQLite · API Claude (Anthropic) · Plotly · pytest
 
-## Installation (Windows)
+## Installation (Windows, avec Anaconda Prompt)
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
+conda create -n btp python=3.11 -y
+conda activate btp
 pip install -r requirements.txt
 copy .env.example .env   # puis coller sa clé API dans .env
 streamlit run app.py
